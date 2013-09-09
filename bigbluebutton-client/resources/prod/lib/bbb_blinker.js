@@ -1,5 +1,5 @@
 function setTitle(title){
-    document.title= "BigBlueButton - " + title;
+    document.title= "Gym-online.dk - " + title;
 }
 
 var i = 1;
